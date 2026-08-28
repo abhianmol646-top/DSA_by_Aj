@@ -26,6 +26,7 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 2235 | [Add Two Integers](2235.cpp)                       | Mathematics                      | Return the sum of two given integers.                                           |
 | 3345 | [Smallest Divisible Digit Product I](3345.cpp)     | Mathematics, Enumeration         | Find the smallest number satisfying the required digit-product condition.       |
 | 3658 | [GCD of Odd and Even Sums](3658.cpp)               | Mathematics                      | Find the GCD of the sum of the first `n` odd and even numbers.                  |
+| 977 | [Squares of a Sorted Array](977.cpp)                 | Array, Two Pointers, Sorting    | Return the squares of a sorted array in non-decreasing order. |
 
 ---
 
