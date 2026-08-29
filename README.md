@@ -21,12 +21,13 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 268  | [Missing Number](268.cpp)                          | Array, Mathematics               | Find the missing number from a sequence containing numbers from `0` to `n`.     |
 | 283  | [Move Zeroes](283.cpp)                             | Array, Two Pointers              | Move all zeroes to the end while maintaining the order of non-zero elements.    |
 | 485  | [Max Consecutive Ones](485.cpp)                    | Array                            | Find the maximum number of consecutive `1`s in a binary array.                  |
+| 540  | [Single Element in a Sorted Array](540.cpp)         | Array, Binary Search            | Find the single element in a sorted array where every other element appears exactly twice. |
 | 877  | [Stone Game](877.cpp)                              | Dynamic Programming, Game Theory | Determine whether the first player can win the game.                            |
+| 977 | [Squares of a Sorted Array](977.cpp)                 | Array, Two Pointers, Sorting    | Return the squares of a sorted array in non-decreasing order. |
 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Mathematics                      | Find the difference between the product and sum of an integer's digits.         |
 | 2235 | [Add Two Integers](2235.cpp)                       | Mathematics                      | Return the sum of two given integers.                                           |
 | 3345 | [Smallest Divisible Digit Product I](3345.cpp)     | Mathematics, Enumeration         | Find the smallest number satisfying the required digit-product condition.       |
 | 3658 | [GCD of Odd and Even Sums](3658.cpp)               | Mathematics                      | Find the GCD of the sum of the first `n` odd and even numbers.                  |
-| 977 | [Squares of a Sorted Array](977.cpp)                 | Array, Two Pointers, Sorting    | Return the squares of a sorted array in non-decreasing order. |
 
 ---
 
