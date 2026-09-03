@@ -8,30 +8,32 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 
 ## 📌 Problems Solved
 
-| #    | Problem                                            | Topic                            | Solution                                                                        |
-| ---- | -------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------- |
-| 1    | [Two Sum](1.cpp)                                   | Array, Hash Table                | Find two numbers whose sum equals the target.                                   |
-| 7    | [Reverse Integer](7.cpp)                           | Mathematics                      | Reverse the digits of a signed integer while handling overflow.                 |
-| 9    | [Palindrome Number](9.cpp)                         | Mathematics                      | Determine whether an integer reads the same forward and backward.               |
-| 26   | [Remove Duplicates from Sorted Array](26.cpp)      | Array, Two Pointers              | Remove duplicates from a sorted array in-place.                                 |
-| 27   | [Remove Element](27.cpp)                           | Array, Two Pointers              | Remove all occurrences of a given value in-place.                               |
-| 50   | [Pow(x, n)](50.cpp)                                |Mathematics, Binary Exponentiation| Calculate `x` raised to the power `n` efficiently.                              |
-| 121  | [Best Time to Buy and Sell Stock](121.cpp)         | Array, Greedy                    | Find the maximum profit possible from a single stock transaction.               |
-| 136  | [Single Number](136.cpp)                           | Array, Bit Manipulation          | Find the element that appears only once when every other element appears twice. |
-| 167  | [Two Sum II - Input Array Is Sorted](167.cpp)      | Array, Two Pointers              | Find two numbers in a sorted array whose sum equals the target.                 |
-| 189  | [Rotate Array](189.cpp)                            | Array, Mathematics               | Rotate an array to the right by `k` positions.                                  |
-| 217  | [Contains Duplicate](217.cpp)                      | Array, Hash Table, Sorting       | Determine whether any value appears at least twice in the array.                |
-| 268  | [Missing Number](268.cpp)                          | Array, Mathematics               | Find the missing number from a sequence containing numbers from `0` to `n`.     |
-| 283  | [Move Zeroes](283.cpp)                             | Array, Two Pointers              | Move all zeroes to the end while maintaining the order of non-zero elements.    |
-| 485  | [Max Consecutive Ones](485.cpp)                    | Array                            | Find the maximum number of consecutive `1`s in a binary array.                  |
-| 540  | [Single Element in a Sorted Array](540.cpp)        | Array, Binary Search             | Find the single element in a sorted array where every other element appears exactly twice. |
-| 877  | [Stone Game](877.cpp)                              | Dynamic Programming, Game Theory | Determine whether the first player can win the game.                            |
-| 977  | [Squares of a Sorted Array](977.cpp)               | Array, Two Pointers, Sorting     | Return the squares of a sorted array in non-decreasing order.                   |
-| 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Mathematics                      | Find the difference between the product and sum of an integer's digits.         |
-| 2235 | [Add Two Integers](2235.cpp)                       | Mathematics                      | Return the sum of two given integers.                                           |
-| 3345 | [Smallest Divisible Digit Product I](3345.cpp)     | Mathematics, Enumeration         | Find the smallest number satisfying the required digit-product condition.       |
-| 3658 | [GCD of Odd and Even Sums](3658.cpp)               | Mathematics                      | Find the GCD of the sum of the first `n` odd and even numbers.                  |
+## 📚 LeetCode Problems
 
+| S.No. | LeetCode | Problem | Topics | Solution |
+|:-----:|:--------:|---------|--------|:--------:|
+| 1 | 1 | [Two Sum](1.cpp) | Array, Hash Table | [View](1.cpp) |
+| 2 | 7 | [Reverse Integer](7.cpp) | Math | [View](7.cpp) |
+| 3 | 9 | [Palindrome Number](9.cpp) | Math | [View](9.cpp) |
+| 4 | 26 | [Remove Duplicates from Sorted Array](26.cpp) | Array, Two Pointers | [View](26.cpp) |
+| 5 | 27 | [Remove Element](27.cpp) | Array, Two Pointers | [View](27.cpp) |
+| 6 | 50 | [Pow(x, n)](50.cpp) | Math, Binary Exponentiation | [View](50.cpp) |
+| 7 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
+| 8 | 136 | [Single Number](136.cpp) | Array, Bit Manipulation | [View](136.cpp) |
+| 9 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
+| 10 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
+| 11 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
+| 12 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
+| 13 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
+| 14 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
+| 15 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
+| 16 | 877 | [Stone Game](877.cpp) | DP, Game Theory | [View](877.cpp) |
+| 17 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 18 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 19 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 20 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 21 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 22 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
 ---
 
 ## 🧠 Topics Covered
