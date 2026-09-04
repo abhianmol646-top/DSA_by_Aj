@@ -34,6 +34,7 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 20 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
 | 21 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
 | 22 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 23 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math |
 ---
 
 ## 🧠 Topics Covered
