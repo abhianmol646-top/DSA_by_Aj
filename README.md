@@ -23,19 +23,20 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 9 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
 | 10 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
 | 11 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
-| 12 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
-| 13 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
-| 14 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
-| 15 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
-| 16 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
-| 17 | 877 | [Stone Game](877.cpp) | DP, Game Theory | [View](877.cpp) |
-| 18 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
-| 19 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
-| 20 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 21 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 22 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 23 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 24 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 12 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
+| 13 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
+| 14 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
+| 25 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
+| 16 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
+| 17 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
+| 18 | 877 | [Stone Game](877.cpp) | DP, Game Theory | [View](877.cpp) |
+| 19 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 20 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 21| 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 22 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 23 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 24 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 25 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 ---
 
 ## 🧠 Topics Covered
