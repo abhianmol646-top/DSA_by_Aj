@@ -33,6 +33,7 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 19 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
 | 20 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
 | 21| 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 29 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
 | 22 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
 | 23 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
 | 24 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
