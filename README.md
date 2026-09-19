@@ -18,30 +18,31 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 4 | 26 | [Remove Duplicates from Sorted Array](26.cpp) | Array, Two Pointers | [View](26.cpp) |
 | 5 | 27 | [Remove Element](27.cpp) | Array, Two Pointers | [View](27.cpp) |
 | 6 | 50 | [Pow(x, n)](50.cpp) | Math, Binary Exponentiation | [View](50.cpp) |
-| 7 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
-| 8 | 136 | [Single Number](136.cpp) | Array, Bit Manipulation | [View](136.cpp) |
-| 9 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
-| 10 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
-| 11 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
-| 12 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
-| 13 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
-| 14 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
-| 25 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
-| 16 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
-| 17 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
-| 18 | 877 | [Stone Game](877.cpp) | DP, Game Theory | [View](877.cpp) |
-| 19 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
-| 20 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
-| 31 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
-| 22| 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 23 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 24 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 25 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 26 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 27 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 28 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 29 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 30 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 7 | 70 | [Climbing Stairs](70.cpp) | Dynamic Programming, Recursion | [View](70.cpp) |
+| 8 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
+| 9 | 136 | [Single Number](136.cpp) | Array, Bit Manipulation | [View](136.cpp) |
+| 10 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
+| 11 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
+| 12 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
+| 13 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
+| 14 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
+| 15 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
+| 16 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
+| 17 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
+| 18 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
+| 19 | 877 | [Stone Game](877.cpp) | DP, Game Theory | [View](877.cpp) |
+| 20 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 21 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 22 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
+| 23| 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 24 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 25 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 26 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 27 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 28 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 29 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 30 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 31 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 ---
 
 ## 🧠 Topics Covered
