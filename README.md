@@ -19,7 +19,7 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 6 | 50 | [Pow(x, n)](50.cpp) | Math, Binary Exponentiation | [View](50.cpp) |
 | 7 | 70 | [Climbing Stairs](70.cpp) | Dynamic Programming, Recursion | [View](70.cpp) |
 | 8 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
-| 9 | 136 | [Single Number](136.cpp) | Array, Bit Manipulation | [View](136.cpp) |
+| 9 | 136 | [Single Number](136.CPP) | Array, Bit Manipulation | [View](136.CPP) |
 | 10 | 162 | [Find Peak Element](162.cpp) | Array, Binary Search | [View](162.cpp) |
 | 11 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
 | 12 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
