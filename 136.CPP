@@ -1,18 +1,14 @@
 class Solution {
 public:
-    int singleNumber(vector<int>& nums)
+    int singleNumber(vector<int>& nums) 
     {
-        sort(nums.begin(),nums.end());
+        int ans = 0;
 
-        for(int i=1;i<nums.size();i+=2)
+        for(int i = 0; i < nums.size(); i++)
         {
-            if(nums[i]!=nums[i-1])
-            {
-                return nums[i-1];
-            }
-        
+            ans = ans ^ nums[i];
         }
-        return nums[nums.size()-1];
+
+        return ans;
     }
 };
-```
