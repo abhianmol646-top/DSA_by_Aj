@@ -39,19 +39,20 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 26 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
 | 27 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
 | 28 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
-| 29 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 30 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 31 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 32 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 33 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 34 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 35 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 36| 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 37 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 38 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 39 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 40 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 41 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 29 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
+| 30 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 31 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 32 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 33 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 34 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 35 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 36 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 37 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
+| 38 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
+| 39 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 40 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 41 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 42 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 
 ## 🧠 Topics Covered
 * Arrays
