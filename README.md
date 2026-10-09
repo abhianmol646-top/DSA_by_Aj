@@ -10,8 +10,6 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 
 ## 📚 LeetCode Problems
 
-## 📚 LeetCode Problems
-
 | S.No. | LeetCode | Problem | Topics | Solution |
 |:-----:|:--------:|---------|--------|:--------:|
 | 1 | 1 | [Two Sum](1.cpp) | Array, Hash Table | [View](1.cpp) |
