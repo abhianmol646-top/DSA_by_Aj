@@ -33,33 +33,26 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 19 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
 | 20 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
 | 21 | 326 | [Power of Three](326.cpp) | Math, Recursion | [View](326.cpp) |
-| 22 | 344 | [Reverse String](344.cpp) | Two Pointers, String | [View](344.cpp) |
-| 23 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
-| 24 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
-| 25 | 509 | [Fibonacci Number](509.cpp) | Math, Dynamic Programming, Recursion | [View](509.cpp) |
-| 26 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
-| 27 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
-| 28 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
-| 29 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
-| 30 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
-| 31 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
-| 32 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
-| 33 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
-| 34 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
-| 35 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 36 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 37 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 38 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 39 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 40 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
-| 41 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 42 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 43 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 44 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 45 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 46 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 47 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 48 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 22 | 342 | [Power of Four](342.cpp) | Math, Bit Manipulation | [View](342.cpp) |
+| 23 | 344 | [Reverse String](344.cpp) | Two Pointers, String | [View](344.cpp) |
+| 24 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
+| 25 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
+| 26 | 509 | [Fibonacci Number](509.cpp) | Math, Dynamic Programming, Recursion | [View](509.cpp) |
+| 27 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
+| 28 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
+| 29 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 30 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
+| 31 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 32 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
+| 33 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
+| 34 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
+| 35 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
+| 36 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 37 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 38 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 39 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 40 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 41 | 2785 | [Sort Vowels
 
 ## 🧠 Topics Covered
 * Arrays
