@@ -49,23 +49,24 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 35 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
 | 36 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
 | 37 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
-| 38 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
-| 39 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 40 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 41 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 42 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 43 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
-| 44 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 45 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
-| 46 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
-| 47 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 48 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 49 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 50 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 51 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 52 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 53 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 54 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 38| 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
+| 39 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
+| 40 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 41 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 42 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 43 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 44 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
+| 45 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 46 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
+| 47 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
+| 48 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 49 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 50 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
+| 51 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
+| 52 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 53 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 54 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 55 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 
 ## 🧠 Topics Covered
 * Arrays
