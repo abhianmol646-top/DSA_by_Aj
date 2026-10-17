@@ -17,56 +17,57 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 3 | 9 | [Palindrome Number](9.cpp) | Math | [View](9.cpp) |
 | 4 | 26 | [Remove Duplicates from Sorted Array](26.cpp) | Array, Two Pointers | [View](26.cpp) |
 | 5 | 27 | [Remove Element](27.cpp) | Array, Two Pointers | [View](27.cpp) |
-| 6 | 50 | [Pow(x, n)](50.cpp) | Math, Binary Exponentiation | [View](50.cpp) |
-| 7 | 70 | [Climbing Stairs](70.cpp) | Dynamic Programming, Recursion | [View](70.cpp) |
-| 8 | 75 | [Sort Colors](75.cpp) | Array, Two Pointers, Sorting | [View](75.cpp) |
-| 9 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
-| 10 | 128 | [Longest Consecutive Sequence](128.cpp) | Array, Hash Table | [View](128.cpp) |
-| 11 | 136 | [Single Number](136.CPP) | Array, Bit Manipulation | [View](136.CPP) |
-| 12 | 153 | [Find Minimum in Rotated Sorted Array](153.cpp) | Array, Binary Search | [View](153.cpp) |
-| 13 | 154 | [Find Minimum in Rotated Sorted Array II](154.cpp) | Array, Binary Search | [View](154.cpp) |
-| 14 | 162 | [Find Peak Element](162.cpp) | Array, Binary Search | [View](162.cpp) |
-| 15 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
-| 16 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
-| 17 | 215 | [Kth Largest Element in an Array](215.cpp) | Array, Sorting, Heap | [View](215.cpp) |
-| 18 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
-| 19 | 223 | [Rectangle Area](223.cpp) | Math, Geometry | [View](223.cpp) |
-| 20 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
-| 21 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
-| 22 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
-| 23 | 326 | [Power of Three](326.cpp) | Math, Recursion | [View](326.cpp) |
-| 24 | 342 | [Power of Four](342.cpp) | Math, Bit Manipulation | [View](342.cpp) |
-| 25 | 344 | [Reverse String](344.cpp) | Two Pointers, String | [View](344.cpp) |
-| 26 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
-| 27 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
-| 28 | 509 | [Fibonacci Number](509.cpp) | Math, Dynamic Programming, Recursion | [View](509.cpp) |
-| 29 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
-| 30 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
-| 31 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
-| 32 | 1009 | [Complement of Base 10 Integer](1009.cpp) | Bit Manipulation, Binary | [View](1009.cpp) |
-| 33 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
-| 34 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
-| 35 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
-| 36 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
-| 37 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
-| 38| 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
-| 39 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
-| 40 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 41 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 42 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 43 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 44 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
-| 45 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 46 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
-| 47 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
-| 48 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 49 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 50 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 51 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 52 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 53 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 54 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 55 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 6 | 29 | [Divide Two Integers](29.cpp) | Math, Bit Manipulation | [View](29.cpp) |
+| 7 | 50 | [Pow(x, n)](50.cpp) | Math, Binary Exponentiation | [View](50.cpp) |
+| 8 | 70 | [Climbing Stairs](70.cpp) | Dynamic Programming, Recursion | [View](70.cpp) |
+| 9 | 75 | [Sort Colors](75.cpp) | Array, Two Pointers, Sorting | [View](75.cpp) |
+| 10 | 121 | [Best Time to Buy and Sell Stock](121.cpp) | Array, Greedy | [View](121.cpp) |
+| 11 | 128 | [Longest Consecutive Sequence](128.cpp) | Array, Hash Table | [View](128.cpp) |
+| 12 | 136 | [Single Number](136.CPP) | Array, Bit Manipulation | [View](136.CPP) |
+| 13 | 153 | [Find Minimum in Rotated Sorted Array](153.cpp) | Array, Binary Search | [View](153.cpp) |
+| 14 | 154 | [Find Minimum in Rotated Sorted Array II](154.cpp) | Array, Binary Search | [View](154.cpp) |
+| 15 | 162 | [Find Peak Element](162.cpp) | Array, Binary Search | [View](162.cpp) |
+| 16 | 167 | [Two Sum II - Input Array Is Sorted](167.cpp) | Array, Two Pointers | [View](167.cpp) |
+| 17 | 189 | [Rotate Array](189.cpp) | Array, Math | [View](189.cpp) |
+| 18 | 215 | [Kth Largest Element in an Array](215.cpp) | Array, Sorting, Heap | [View](215.cpp) |
+| 19 | 217 | [Contains Duplicate](217.cpp) | Array, Hash Table | [View](217.cpp) |
+| 20 | 223 | [Rectangle Area](223.cpp) | Math, Geometry | [View](223.cpp) |
+| 21 | 258 | [Add Digits](258.cpp) | Math | [View](258.cpp) |
+| 22 | 268 | [Missing Number](268.cpp) | Array, Math | [View](268.cpp) |
+| 23 | 283 | [Move Zeroes](283.cpp) | Array, Two Pointers | [View](283.cpp) |
+| 24 | 326 | [Power of Three](326.cpp) | Math, Recursion | [View](326.cpp) |
+| 25 | 342 | [Power of Four](342.cpp) | Math, Bit Manipulation | [View](342.cpp) |
+| 26 | 344 | [Reverse String](344.cpp) | Two Pointers, String | [View](344.cpp) |
+| 27 | 371 | [Sum of Two Integers](371.cpp) | Bit Manipulation, Math | [View](371.cpp) |
+| 28 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
+| 29 | 509 | [Fibonacci Number](509.cpp) | Math, Dynamic Programming, Recursion | [View](509.cpp) |
+| 30 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
+| 31 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
+| 32 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 33 | 1009 | [Complement of Base 10 Integer](1009.cpp) | Bit Manipulation, Binary | [View](1009.cpp) |
+| 34 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
+| 35 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 36 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
+| 37 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
+| 38 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
+| 39 | 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
+| 40 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
+| 41 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 42 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 43 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 44 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 45 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
+| 46 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 47 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
+| 48 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
+| 49 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 50 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 51 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
+| 52 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
+| 53 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 54 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 55 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 56 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 
 ## 🧠 Topics Covered
 * Arrays
