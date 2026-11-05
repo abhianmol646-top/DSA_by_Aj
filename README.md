@@ -2,11 +2,18 @@
 
 A structured collection of my **LeetCode problem solutions**, implemented in **C++**.
 
-This repository documents my journey of improving **Data Structures, Algorithms, logical thinking, and problem-solving skills** through consistent coding practice.
+This repository documents my journey of strengthening **Data Structures, Algorithms, logical thinking, and problem-solving skills** through consistent coding practice.
 
 ---
 
-## 📌 Problems Solved
+## 📊 Repository Overview
+
+- **Total Problems Solved:** 67
+- **Programming Language:** C++
+- **Platform:** LeetCode
+- **Primary Focus:** Data Structures & Algorithms
+
+---
 
 ## 📚 LeetCode Problems
 
@@ -48,81 +55,92 @@ This repository documents my journey of improving **Data Structures, Algorithms,
 | 34 | 485 | [Max Consecutive Ones](485.cpp) | Array | [View](485.cpp) |
 | 35 | 509 | [Fibonacci Number](509.cpp) | Math, Dynamic Programming, Recursion | [View](509.cpp) |
 | 36 | 540 | [Single Element in a Sorted Array](540.cpp) | Array, Binary Search | [View](540.cpp) |
-| 37 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
-| 38 | 912 | [Sort an Array](912.cpp) | Array, Divide and Conquer, Sorting | [View](912.cpp) |
-| 39 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
-| 40 | 1006 | [Clumsy Factorial](1006.cpp) | Math, Simulation | [View](1006.cpp) |
-| 41 | 1009 | [Complement of Base 10 Integer](1009.cpp) | Bit Manipulation, Binary | [View](1009.cpp) |
-| 42 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
-| 43 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
-| 44 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
-| 45 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
-| 46 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
-| 47 | 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
-| 48 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
-| 49 | 2089 | [Find Target Indices After Sorting Array](2089.cpp) | Array, Binary Search, Sorting | [View](2089.cpp) |
-| 50 | 2119 | [A Number After a Double Reversal](2119.cpp) | Math | [View](2119.cpp) |
-| 51 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 52 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 53 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 54 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 55 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
-| 56 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 57 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
-| 58 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
-| 59 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 60 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 61 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 62 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 63 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 64 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 65 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 66 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |7
+| 37 | 704 | [Binary Search](704.cpp) | Array, Binary Search | [View](704.cpp) |
+| 38 | 877 | [Stone Game](877.cpp) | Dynamic Programming, Game Theory | [View](877.cpp) |
+| 39 | 912 | [Sort an Array](912.cpp) | Array, Divide and Conquer, Sorting | [View](912.cpp) |
+| 40 | 977 | [Squares of a Sorted Array](977.cpp) | Array, Two Pointers | [View](977.cpp) |
+| 41 | 1006 | [Clumsy Factorial](1006.cpp) | Math, Simulation | [View](1006.cpp) |
+| 42 | 1009 | [Complement of Base 10 Integer](1009.cpp) | Bit Manipulation, Binary | [View](1009.cpp) |
+| 43 | 1108 | [Defanging an IP Address](1108.cpp) | String | [View](1108.cpp) |
+| 44 | 1281 | [Subtract the Product and Sum of Digits](1281.cpp) | Math | [View](1281.cpp) |
+| 45 | 1342 | [Number of Steps to Reduce a Number to Zero](1342.cpp) | Math, Simulation | [View](1342.cpp) |
+| 46 | 1431 | [Kids With the Greatest Number of Candies](1431.cpp) | Array | [View](1431.cpp) |
+| 47 | 1464 | [Maximum Product of Two Elements in an Array](1464.cpp) | Array, Sorting | [View](1464.cpp) |
+| 48 | 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
+| 49 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
+| 50 | 2089 | [Find Target Indices After Sorting Array](2089.cpp) | Array, Binary Search, Sorting | [View](2089.cpp) |
+| 51 | 2119 | [A Number After a Double Reversal](2119.cpp) | Math | [View](2119.cpp) |
+| 52 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 53 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 54 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 55 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 56 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
+| 57 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 58 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
+| 59 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
+| 60 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 61 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 62 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
+| 63 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
+| 64 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 65 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 66 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 67 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+
+---
+
 ## 🧠 Topics Covered
-* Arrays
-* Two Pointers
-* Hash Tables
-* Mathematics
-* Greedy Algorithms
-* Bit Manipulation
-* Dynamic Programming
-* Game Theory
-* Logical Problem Solving
-* String
+
+- Arrays
+- Strings
+- Two Pointers
+- Hash Tables
+- Binary Search
+- Sorting Algorithms
+- Divide and Conquer
+- Mathematics
+- Greedy Algorithms
+- Bit Manipulation
+- Dynamic Programming
+- Recursion
+- Heap
+- Game Theory
+- Simulation
+- Logical Problem Solving
 
 ---
 
-## 💻 Language
+## 💻 Language & Tools
 
-**C++**
+**Primary Language:** C++
 
-All solutions in this repository are implemented using C++.
+**Platform:** LeetCode
+
+**Version Control:** Git & GitHub
+
+All solutions in this repository are implemented in C++.
 
 ---
 
-## 🎯 Purpose
+## 🎯 Repository Goals
 
-The main purpose of this repository is to:
-
-* Build strong problem-solving fundamentals
-* Improve Data Structures & Algorithms skills
-* Practice writing efficient C++ solutions
-* Maintain a record of solved LeetCode problems
-* Track my progress consistently
-* Prepare for technical interviews and competitive programming
+- Strengthen Data Structures and Algorithms fundamentals.
+- Improve logical thinking and problem-solving abilities.
+- Practice writing clean and efficient C++ code.
+- Understand different algorithmic techniques and approaches.
+- Maintain a structured record of solved problems.
+- Prepare for technical interviews and coding assessments.
 
 ---
 
 ## 📈 Progress
 
-I am continuously adding new problems and improving my understanding of different algorithmic techniques.
+I regularly update this repository as I solve new problems, learn new concepts, and improve my understanding of Data Structures and Algorithms.
 
 > **Consistency over perfection — one problem at a time.**
 
 ---
 
-## 🔗 Repository
+## ⭐ Support
 
-This repository will be regularly updated as I solve more problems and explore new concepts in **DSA and C++**.
-
-### ⭐ If you find this repository useful, feel free to explore the solutions and follow the journey.
+If you find this repository useful, feel free to explore the solutions and follow my coding journey.
