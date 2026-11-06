@@ -95,6 +95,7 @@ This repository documents my journey of strengthening **Data Structures, Algorit
 
 - Arrays
 - Strings
+- Linked list
 - Two Pointers
 - Hash Tables
 - Binary Search
