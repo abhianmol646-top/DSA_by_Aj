@@ -8,7 +8,7 @@ This repository documents my journey of strengthening **Data Structures, Algorit
 
 ## 📊 Repository Overview
 
-- **Total Problems Solved:** 70
+- **Total Problems Solved:** 71
 - **Programming Language:** C++
 - **Platform:** LeetCode
 - **Primary Focus:** Data Structures & Algorithms
@@ -72,23 +72,24 @@ This repository documents my journey of strengthening **Data Structures, Algorit
 | 51 | 1688 | [Count of Matches in Tournament](1688.cpp) | Math, Simulation | [View](1688.cpp) |
 | 52 | 1832 | [Check if the Sentence Is Pangram](1832.cpp) | String, Hash Table | [View](1832.cpp) |
 | 53 | 2089 | [Find Target Indices After Sorting Array](2089.cpp) | Array, Binary Search, Sorting | [View](2089.cpp) |
-| 54 | 2119 | [A Number After a Double Reversal](2119.cpp) | Math | [View](2119.cpp) |
-| 55 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
-| 56 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
-| 57 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
-| 58 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
-| 59 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
-| 60 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
-| 61 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
-| 62 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
-| 63 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
-| 64 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
-| 65 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
-| 66 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
-| 67 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
-| 68 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
-| 69 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
-| 70 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
+| 54 | 2095 | [Delete the Middle Node of a Linked List](2095.cpp) | Linked List, Two Pointers, Fast and Slow Pointers | [View](2095.cpp) |
+| 55 | 2119 | [A Number After a Double Reversal](2119.cpp) | Math | [View](2119.cpp) |
+| 56 | 2235 | [Add Two Integers](2235.cpp) | Math | [View](2235.cpp) |
+| 57 | 2427 | [Number of Common Factors](2427.cpp) | Math, Enumeration | [View](2427.cpp) |
+| 58 | 2469 | [Convert the Temperature](2469.cpp) | Math | [View](2469.cpp) |
+| 59 | 2651 | [Calculate Delayed Arrival Time](2651.cpp) | Math | [View](2651.cpp) |
+| 60 | 2652 | [Sum Multiples](2652.cpp) | Math, Enumeration | [View](2652.cpp) |
+| 61 | 2706 | [Buy Two Chocolates](2706.cpp) | Array, Sorting | [View](2706.cpp) |
+| 62 | 2778 | [Sum of Squares of Special Elements](2778.cpp) | Array, Enumeration | [View](2778.cpp) |
+| 63 | 2785 | [Sort Vowels in a String](2785.cpp) | String, Sorting | [View](2785.cpp) |
+| 64 | 3099 | [Harshad Number](3099.cpp) | Math | [View](3099.cpp) |
+| 65 | 3345 | [Smallest Divisible Digit Product I](3345.cpp) | Math, Enumeration | [View](3345.cpp) |
+| 66 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550.cpp) | Array, Math | [View](3550.cpp) |
+| 67 | 3622 | [Check Divisibility by Digit Sum and Product](3622.cpp) | Math, Number Theory | [View](3622.cpp) |
+| 68 | 3658 | [GCD of Odd and Even Sums](3658.cpp) | Math | [View](3658.cpp) |
+| 69 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
+| 70 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
+| 71 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
 
 ---
 
