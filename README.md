@@ -8,7 +8,7 @@ This repository documents my journey of strengthening **Data Structures, Algorit
 
 ## 📊 Repository Overview
 
-- **Total Problems Solved:** 71
+- **Total Problems Solved:** 72
 - **Programming Language:** C++
 - **Platform:** LeetCode
 - **Primary Focus:** Data Structures & Algorithms
@@ -90,7 +90,7 @@ This repository documents my journey of strengthening **Data Structures, Algorit
 | 69 | 3870 | [Count Commas in Range](3870.cpp) | Math, Counting | [View](3870.cpp) |
 | 70 | 3875 | [Construct Uniform Parity Array I](3875.cpp) | Array, Math | [View](3875.cpp) |
 | 71 | 3876 | [Construct Uniform Parity Array II](3876.cpp) | Array, Math | [View](3876.cpp) |
-
+| 72 | **   | [Merge sort(mergesort.cpp) |     | [view](mergesort.cpp) |
 ---
 
 ## 🧠 Topics Covered
